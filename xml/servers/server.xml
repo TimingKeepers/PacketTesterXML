@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<server>
+	<port>56015</port>
+	<proto>UDP</proto>
+</server>
