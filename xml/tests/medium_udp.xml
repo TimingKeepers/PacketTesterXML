@@ -7,6 +7,6 @@
 			<proto>UDP</proto>
 			<times>100</times>
 		</header>
-		<content>Hello world!!</content>
+		<content>Hello world! How are you?</content>
     </message>
 </test>

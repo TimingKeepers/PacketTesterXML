@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<test>
+    <message>
+		<header>
+			<ip>127.0.0.1</ip>
+			<port>56015</port>
+			<proto>UDP</proto>
+			<times>100</times>
+			<sleep random="yes">1,6</sleep>
+		</header>
+		<content>Hello world! How are you?
+	Hello world! How are you?
+	Hello world! How are you?
+	Hello world! How are you?
+	Hello world! How are you?
+	Hello world! How are you?
+	Hello world! How are you?
+	Hello world! How are you?
+	Hello world! How are you?
+		</content>
+    </message>
+</test>

@@ -4,9 +4,9 @@
 		<header>
 			<ip>127.0.0.1</ip>
 			<port>56015</port>
-			<proto>UDP</proto>
+			<proto>TCP</proto>
 			<times>100</times>
 		</header>
-		<content>Hello world!!</content>
+		<content>Hello world! How are you?</content>
     </message>
 </test>

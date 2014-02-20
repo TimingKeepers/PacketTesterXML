@@ -6,7 +6,8 @@
 			<port>56015</port>
 			<proto>UDP</proto>
 			<times>100</times>
+			<sleep>1</sleep>
 		</header>
-		<content>Hello world!!</content>
+		<content>Hi</content>
     </message>
 </test>

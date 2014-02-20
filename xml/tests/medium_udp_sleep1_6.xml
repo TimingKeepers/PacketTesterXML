@@ -6,7 +6,8 @@
 			<port>56015</port>
 			<proto>UDP</proto>
 			<times>100</times>
+			<sleep random="yes">1,6</sleep>
 		</header>
-		<content>Hello world!!</content>
+		<content>Hello world! How are you?</content>
     </message>
 </test>
